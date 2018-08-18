@@ -132,8 +132,8 @@ masternode=1
 mkdir motion 
 mkdir motion/src
 cd motion/src
-wget https://github.com/motioncrypto/motion/releases/download/v0.1.2/motion-v0.1.2-arm.zip
-unzip motion-v0.1.2-arm.zip
+wget https://github.com/motioncrypto/motion/releases/download/v0.1.2/motion-v0.1.2-lin-64bits.zip
+unzip motion-v0.1.2-lin-64bits.zip
 chmod +x motiond
 chmod +x motion-cli
 chmod +x motion-tx
